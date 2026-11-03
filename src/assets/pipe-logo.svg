@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 142 64" role="img" aria-label="PIPE">
+  <g fill="#171717" fill-rule="evenodd">
+    <path d="M0 0h23c10 0 15 6 15 17v7c0 11-5 17-15 17H12v23H0zm12 11v19h9c4 0 5-2 5-6v-7c0-4-1-6-5-6z"/>
+    <path d="M44 0h12v64H44z"/>
+    <path d="M62 0h23c10 0 15 6 15 17v7c0 11-5 17-15 17H74v23H62zm12 11v19h9c4 0 5-2 5-6v-7c0-4-1-6-5-6z"/>
+    <path d="M106 0h36v11h-24v15h20v11h-20v16h24v11h-36z"/>
+  </g>
+</svg>
